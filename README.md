@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Camila</h1>
 <h3 align="center">A passionate full stack MERN developer from Paraguay</h3>
 
-- 🌱 I’m currently learning **on Coding Dojo Full Stack MERN Bootcamp**
+
+- ✨ I’m full stack MERN developer with these skills **React js, node, express, mongo DB, HTML, CSS, Javascript Vanilla**
 
 - 👨‍💻 All of my projects are available at [https://github.com/camj10](https://github.com/camj10)
 
 - I'm a Computer Science Engineering student on Universidad Católica- Paraguay
 
 - 📫 How to reach me **https://www.linkedin.com/in/camila-jisel-12bb90250/**
+
+- 🌱 I’m currently learning **Python lenguage with MySQL DB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
