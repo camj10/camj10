@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/camj10](https://github.com/camj10)
 
-- I'm a Computer Science Engineering student [on Universidad Católica- Paraguay](on Universidad Católica- Paraguay)
+- I'm a Computer Science Engineering student on Universidad Católica- Paraguay
 
 - 📫 How to reach me **https://www.linkedin.com/in/camila-jisel-12bb90250/**
 
