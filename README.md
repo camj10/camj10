@@ -2,7 +2,13 @@
 <h3 align="center">A passionate full stack MERN developer from Paraguay</h3>
 
 
-- ✨ I’m full stack MERN developer with these skills **React js, node, express, mongo DB, HTML, CSS, Javascript Vanilla**
+- ✨ I’m a passionate backend and QA-focused developer from Paraguay with solid experience in Node.js, Express, MongoDB, and JavaScript. Skilled in designing and maintaining robust APIs, automated testing, and database management.
+  
+- 🔧 Key skills:
+
+Backend: Python, Javascript, Node, C++, Express, MongoDB, MySQL.
+
+Testing & QA: Automated testing, unit tests, integration tests.
 
 - 👨‍💻 All of my projects are available at [https://github.com/camj10](https://github.com/camj10)
 
@@ -10,7 +16,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/camila-jisel-12bb90250/**
 
-- 🌱 I’m currently learning **Python lenguage with MySQL DB**
+- 🌱 Currently learning algorithms and mathematics for Artificial Intelligence, while expanding my skills in backend development and QA.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
