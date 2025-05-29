@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camila</h1>
-<h3 align="center">A passionate full stack MERN developer from Paraguay</h3>
+<h3 align="center">Full Stack Developer with Backend & QA Focus from Paraguay</h3>
 
 
 - ✨ I’m a passionate backend and QA-focused developer from Paraguay with solid experience in Node.js, Express, MongoDB, and JavaScript. Skilled in designing and maintaining robust APIs, automated testing, and database management.
