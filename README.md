@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer with Backend & QA Focus from Paraguay</h3>
 
 
-- ✨ I’m a passionate backend and QA-focused developer from Paraguay with solid experience in Node.js, Express, MongoDB, and JavaScript. Skilled in designing and maintaining robust APIs, automated testing, and database management.
+- ✨ I’m a passionate backend and QA-focused developer from Paraguay with solid experience in Node.js, Express, MongoDB, Python. Skilled in designing and maintaining robust APIs, automated testing, and database management.
   
 - 🔧 Key skills:
 
